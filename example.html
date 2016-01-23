@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vegibit Vue tutorial</title>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="app" class="container">
+        <button v-twitter-share="'I am so amazing!'" class="btn btn-info">Share this on Twitter</button>
+    </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.15/vue.js"></script>
+<script src="vue.twitter-share.js"></script>
+<script>
+    /* globals Vue */
+    var App = new Vue({
+      el: '#app'
+    });
+  </script>
+</html>
