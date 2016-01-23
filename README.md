@@ -1,7 +1,6 @@
 # vue-ga-directive
 
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
-[![Bower](https://img.shields.io/bower/v/bootstrap.svg)]()
 
 A Vue directive for sharing page contents to twitter
 
