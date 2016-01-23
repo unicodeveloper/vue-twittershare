@@ -1,0 +1,27 @@
+{
+  "name": "vue-twittershare",
+  "homepage": "https://github.com/unicodeveloper/vue-twittershare",
+  "authors": [
+    "busayo <prosperotemuyiwa@gmail.com>"
+  ],
+  "description": "A Vue.js directive and component for sharing page items to twitter",
+  "main": "vue.twitter-share.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "twitter",
+    "twitter-share",
+    "vue-twittershare",
+    "directive",
+    "component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
