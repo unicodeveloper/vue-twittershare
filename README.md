@@ -1,4 +1,4 @@
-# vue-ga-directive
+# vue-twittershare directive
 
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
